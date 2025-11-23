@@ -1,0 +1,7 @@
+# Binarie files
+*.exe
+*.out
+*.o
+
+# The clangd file
+*.clangd
